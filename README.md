@@ -1,4 +1,4 @@
-Project Brief: Telegram News Bot
+**Project Brief: Telegram News Bot
 Overview
 This project is a Telegram bot that provides users with the latest news from NDTV's RSS feed. When a user sends a message to the bot, it fetches the most recent headline from NDTV and responds with it.
 
